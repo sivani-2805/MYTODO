@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priority_options">
+        <item>Select Priority</item>
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="category_options">
+        <item>Select Category</item>
+        <item>COMPANY</item>
+        <item>STUDY</item>
+        <item>PERSONAL</item>
+    </string-array>
+
+    <string-array name="status_options">
+        <item>Select Status</item>
+        <item>New</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+    </string-array>
+</resources>

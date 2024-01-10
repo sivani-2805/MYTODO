@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="title_title">Title</string>
+    <string name="title_hint">Enter title</string>
+    <string name="description_title">Description</string>
+    <string name="description_hint">Enter description</string>
+    <string name="priority_title">Priority</string>
+    <string name="Category_title">Category</string>
+    <string name="status_title">Status</string>
+    <string name="add_task">Add Task</string>
+    <string name="due_date_title">Due Date</string>
+    <string name="due_date_hint">Select due date</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_due_date">Due Date</string>
+</resources>
